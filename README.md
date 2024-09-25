@@ -21,3 +21,6 @@ Features:
   2.2) Data size ()
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
+
+5) ![image](https://github.com/user-attachments/assets/9bdfd674-c51d-4e32-9ae4-9910aa501ff4)
+
